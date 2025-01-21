@@ -1,34 +1,44 @@
-# Welcome to My Digital Workshop! 👨‍💻✨
+# Hi 👋, I'm Huseyn Khalil  
 
-Hey there! I’m Huseyn Khalil, aka **@mazegit1** 🚀. Thanks for stopping by!
+**A Senior Frontend Developer from Baku, Azerbaijan**  
 
-### 🎯 About Me
-- 🛠️ **Crafting Code**: Turning ideas into elegant, user-friendly websites and apps.  
-- 💡 **Passion**: Obsessed with building responsive, animated, and functional digital experiences.
+- 🔧 I’m currently working on exciting **React.js** and **TailwindCSS** projects.  
+- 📂 Explore my work: [My Portfolio](https://mazegitportfolio.netlify.app/)  
+- 💬 Ask me about **React**, **Framer Motion**, **TailwindCSS**, and **Python**.  
+- 📫 Reach me at: [editor.azer@gmail.com](mailto:editor.azer@gmail.com)  
+- 🌐 Learn more about me: [LinkedIn](https://www.linkedin.com/in/huseyn-xalil-7022262bb/) | [Instagram](https://www.instagram.com/xelil_ovw/)  
+- ⚡ Fun fact: I balance code with swimming and fitness! 🏊‍♂️  
 
-### 🔭 Current Interests
-- 🚀 **Exploring the Web Galaxy**: Advanced web animations, Framer Motion, and React.js wizardry.  
-- 🎨 **Design Lover**: Tailoring UI/UX designs that are not just functional but delightful.  
+---
 
-### 🌱 Always Growing
-- 💻 **Skill Hunt**: Mastering backend technologies to round out my web development toolkit.  
-- 📖 **Learning**: Python for web development and automations, while fine-tuning my JavaScript expertise.  
+### 🔗 **Connect with me**  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/xelil_ovw/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huseyn-xalil-7022262bb/)  
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/mazegit1)  
 
-### 🤝 Collaboration Zone
-- 💬 Let’s team up on:  
-  - **Frontend Magic**: React, TailwindCSS, and SCSS.  
-  - **Creative Coding**: Building interactive websites with a "wow" factor.  
-- 💡 Open to innovative project ideas—let’s make something extraordinary together!
+---
 
-### 📬 Stay Connected
-- 📨 Email: [editor.azer@gmail.com](mailto:editor.azer@gmail.com)  
-- 📱 Telegram: [@mazegit](https://t.me/mazegit)  
-- 🌐 Portfolio: [mazegitportfolio.netlify.app](https://mazegitportfolio.netlify.app)  
+### 🛠️ **Languages and Tools**  
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black)  
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)  
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white)  
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-%23E8E8E8.svg?&style=for-the-badge&logo=framer&logoColor=black)  
+![SCSS](https://img.shields.io/badge/SCSS-%23CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white)  
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)  
 
-### 🌟 Fun Side
-- 🏋️‍♂️ Gym rat and swimmer—fitness fuels my creativity!  
-- 🎧 Music enthusiast—coding playlists are my secret weapon.  
-- 🌌 Random fact: I can switch between **Azerbaijani, English, Turkish, and Russian** fluently. 🌍
+---
 
-### 🚀 Let's Build the Future Together!
-If you’re a tech enthusiast, a dreamer, or just someone with a cool idea, I’d love to hear from you. Let’s innovate and create something epic.  
+### 🚀 **What I Do**  
+- Build responsive websites that shine on all devices 🌟.  
+- Craft smooth animations and interactive UI using **Framer Motion**.  
+- Focus on clean, reusable code with **TailwindCSS** and **React**.  
+
+---
+
+### 🌟 **Fun Zone**  
+- 🏋️‍♂️ Gym and swimming keep me sharp and focused!  
+- 🎧 Always coding to my favorite beats 🎵.  
+- 🧩 Problem solver at heart—always up for a new challenge!  
+
