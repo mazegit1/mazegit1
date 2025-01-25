@@ -1,6 +1,6 @@
 # Hi 👋, I'm Huseyn Khalil  
 
-**A Senior Frontend Developer from Baku, Azerbaijan**  
+**A Junior Frontend Developer from Baku, Azerbaijan**  
 
 - 🔧 I’m currently working on exciting **React.js** and **TailwindCSS** projects.  
 - 📂 Explore my work: [My Portfolio](https://mazegitportfolio.netlify.app/)  
