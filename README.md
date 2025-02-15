@@ -2,7 +2,7 @@
 ### **A Junior Frontend Developer from Baku, Azerbaijan**  
 
 🔧 **Currently working on** exciting **React.js** and **TailwindCSS** projects.  
-📂 **Explore my work** → [**My Portfolio**](https://mazegitportfolio.netlify.app/)  
+📂 **Explore my work** → [**My Portfolio**](https://mazeportfolio.netlify.app/)  
 💬 **Ask me about** → React, Framer Motion, TailwindCSS, and Python.  
 📫 **Reach me at** → [mazegitt@gmail.com](mailto:mazegitt@gmail.com)  
 🌐 **Learn more** → [LinkedIn](https://www.linkedin.com/in/huseyn-xalil-7022262bb/) | [Instagram](https://www.instagram.com/xelil_ovw/)  
