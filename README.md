@@ -32,20 +32,6 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
  
 ---
-
-## **🚀 What I Do**
-✅ **Build** responsive, dynamic websites that shine on all devices 🌟.  
-✅ **Craft** smooth animations and interactive UI using **Framer Motion**.  
-✅ **Write** clean, reusable, and scalable code with **React & TailwindCSS**.  
-
----
-
-## **🌟 Fun Zone**
-🏋️‍♂️ **Gym and swimming** keep me sharp and focused!  
-🎧 **Coding to my favorite beats** 🎵.  
-🧩 **Problem solver at heart**—always up for a new challenge!  
-
----
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mazegit1&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mazegit1&theme=neon&hide_border=false)<br/>
