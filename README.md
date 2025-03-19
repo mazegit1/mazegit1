@@ -9,7 +9,10 @@
 ⚡ **Fun fact** → I balance code with swimming and fitness! 🏊‍♂️  
 
 ---
-
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mazegit1&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mazegit1&theme=neon&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mazegit1&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ## **🔗 Connect with Me**
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/xelil_ovw)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/huseyn-xalil-7022262bb/)  
@@ -32,10 +35,7 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
  
 ---
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mazegit1&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mazegit1&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mazegit1&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
