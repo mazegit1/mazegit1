@@ -3,11 +3,8 @@
 
 🔧 **Currently working on** exciting **React.js** and **TailwindCSS** projects.  
 📂 **Explore my work** → [**My Portfolio**](https://mazeportfolio.netlify.app/)  
-💬 **Ask me about** → React, Framer Motion, TailwindCSS, and Python.  
-📫 **Reach me at** → [mazegitt@gmail.com](mailto:mazegitt@gmail.com)  
+📫 **Reach me at** → [mazegitt@gmail.com](mailto:editor.azer@gmail.com)  
 🌐 **Learn more** → [LinkedIn](https://www.linkedin.com/in/huseyn-xalil-7022262bb/) | [Instagram](https://www.instagram.com/xelil_ovw/)  
-⚡ **Fun fact** → I balance code with swimming and fitness! 🏊‍♂️  
-
 ---
 ## **📊 GitHub Stats**:
 ![](https://github-readme-stats.vercel.app/api?username=mazegit1&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
