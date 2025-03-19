@@ -9,7 +9,7 @@
 ⚡ **Fun fact** → I balance code with swimming and fitness! 🏊‍♂️  
 
 ---
- 📊 GitHub Stats:
+## **📊 GitHub Stats**:
 ![](https://github-readme-stats.vercel.app/api?username=mazegit1&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mazegit1&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mazegit1&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
