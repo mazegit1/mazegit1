@@ -1,9 +1,9 @@
 # **Huseyn Khalil | Personal Github Portfolio**  
 ### **A Senior Frontend Developer from Baku, Azerbaijan**  
 
-📂 **Explore my work** → [**My Portfolio**](https://mazeportfolio.netlify.app/)  
-📫 **Reach me at** → [mazegitt@gmail.com](mailto:editor.azer@gmail.com)  
-🌐 **Learn more** → [LinkedIn](https://www.linkedin.com/in/huseyn-xalil-7022262bb/) | [Instagram](https://www.instagram.com/xelil_ovw/)  
+📂 Explore my work → [**My Portfolio**](https://mazeportfolio.netlify.app/)  
+📫 Reach me at → [mazegitt@gmail.com](mailto:editor.azer@gmail.com)  
+🌐 Learn more → [LinkedIn](https://www.linkedin.com/in/huseyn-xalil-7022262bb/) | [Instagram](https://www.instagram.com/xelil_ovw/)  
 ---
 ## **📊 GitHub Stats**:
 ![](https://github-readme-stats.vercel.app/api?username=mazegit1&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>![](https://github-readme-streak-stats.herokuapp.com/?user=mazegit1&theme=neon&hide_border=false)<br/>![](https://github-readme-stats.vercel.app/api/top-langs/?username=mazegit1&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
