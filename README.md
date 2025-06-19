@@ -1,7 +1,6 @@
-# **Hi 👋, I'm Huseyn Khalil**  
+# **Huseyn Khalil | Personal Github Portfolio**  
 ### **A Senior Frontend Developer from Baku, Azerbaijan**  
 
-🔧 **Currently working on** exciting **React.js** and **TailwindCSS** projects.  
 📂 **Explore my work** → [**My Portfolio**](https://mazeportfolio.netlify.app/)  
 📫 **Reach me at** → [mazegitt@gmail.com](mailto:editor.azer@gmail.com)  
 🌐 **Learn more** → [LinkedIn](https://www.linkedin.com/in/huseyn-xalil-7022262bb/) | [Instagram](https://www.instagram.com/xelil_ovw/)  
