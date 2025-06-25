@@ -1,5 +1,5 @@
 # **Huseyn Khalil | Personal Github Portfolio**  
-### **A Senior Frontend Developer from Baku, Azerbaijan**  
+### **A Frontend Developer from Baku, Azerbaijan**  
 
 📂 Explore my work → [**My Portfolio**](https://mazeportfolio.netlify.app/)  
 📫 Reach me at → [mazegitt@gmail.com](mailto:editor.azer@gmail.com)  
